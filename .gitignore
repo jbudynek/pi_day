@@ -1,3 +1,7 @@
+# JB misc
+.vscode/
+out_tmp/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
